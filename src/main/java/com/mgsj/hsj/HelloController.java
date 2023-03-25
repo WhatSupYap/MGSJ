@@ -8,6 +8,6 @@ public class HelloController {
 		
 	@GetMapping("/")
 	public String hello() {
-		return "invisible power";
+		return "invisible power (어휴씹덕내)";
 	}
 }
